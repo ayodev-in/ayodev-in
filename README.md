@@ -1,5 +1,5 @@
-<h1 align="center">Oh Hi 👋, I'm Am Satwik Shankar aka Ayo</h1>
-<h3 align="center">A passionate developer from India, i love to destroy things!</h3>
+<h1 align="center">Hi 👋, I'm Am Satwik (AyoDev#099)</h1>
+<h3 align="center">A passionate developer from India, who loves to destroy things!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayodev-in&label=Profile%20views&color=0e75b6&style=flat" alt="ayodev-in" /> </p>
 
