@@ -11,7 +11,7 @@
 
 - 🪕 Checkout this fabulous bot [Groot](https://grootbot.xyz)
 
-- 📫 Reach me by my email: **satwik@nighthost.tech**
+- 📫 Reach me by my email: **mail@satwik.xyz**
 
 
 <p align="left">
