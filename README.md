@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayodev-in&label=Profile%20views&color=0e75b6&style=flat" alt="ayodev-in" /> </p>
 
-- 🔭 I’m currently working on [BilligerHost](https://BilligerHost.com)
+- 🔭 I’m currently working on [Tortoises Studio #Cheap](https://tortoises.studio)
 
 - 🌱 I’m currently learning **React-Router, TSX and Gre tunelling**
-
-- 👯 I’m looking to collaborate on [NightHost](https://NightHost.tech)
 
 - 🪕 Checkout this fabulous bot [Groot](https://grootbot.xyz)
 
