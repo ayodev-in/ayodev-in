@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayodev-in&label=Profile%20views&color=0e75b6&style=flat" alt="ayodev-in" /> </p>
 
-- 🔭 I’m currently working on [Tortoises Studio #Cheap](https://tortoises.studio)
+- 🔭 I’m currently working on [Tortoises Studio](https://tortoises.studio)
 
 - 🌱 I’m currently learning **React-Router, TSX and Gre tunelling**
 
-- 🪕 Checkout this fabulous bot [Groot](https://grootbot.xyz)
+- 🪕 Checkout this fabulous bot [Groot](https://grootbot.pro)
 
-- 📫 Reach me by my email: **mail@satwik.xyz**
+- 📫 Reach me by my email: **mail@satwik.net**
 
 
 <p align="left">
